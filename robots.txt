@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-json/
+Disallow: */wlwmanifest.xml
+Disallow: */xmlrpc.php
+Disallow: /media/doc/
+Allow: /wp-admin/admin-ajax.php
+Allow: /*.css
+Allow: /*.gif
+Allow: /*.jpeg
+Allow: /*.jpg
+Allow: /*.js
+Allow: /*.png
+Allow: /*.svg
+Allow: /*.ttf
+Allow: /*.webp
+Allow: /*.woff
+Allow: /*.woff2
+
+Host: https://gotomexico.today
+Sitemap: https://gotomexico.today/wp-sitemap.xml
