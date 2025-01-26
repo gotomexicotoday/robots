@@ -1,2 +1,2 @@
 # robots
-Для размещения robots.txt
+robots.txt is here.
